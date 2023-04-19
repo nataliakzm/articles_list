@@ -15,7 +15,7 @@
 
 <div>
   
- -   **How to Use cfscrape in Python & Common Errors:** (_Article available by request_,  [Code Repository](https://github.com/nataliakzm/use_cfscrape_in_python/blob/main/README.md)) ![](https://img.shields.io/badge/Library-Cfscrape-informational?style=flat&logo=cfscrape&logoColor=white&color=0366d6)
+ -   **How to Use cfscrape in Python & Common Errors:** (_Article available by request_,  [Code Repository](https://github.com/nataliakzm/use_cfscrape_in_python)) ![](https://img.shields.io/badge/Library-Cfscrape-informational?style=flat&logo=cfscrape&logoColor=white&color=0366d6)
  -   **Web Scraping with cURL [Best Guide 2023]:** (_Article available by request_,  [Code Repository](https://github.com/nataliakzm/Resizing_Images_with_Flutter)) ![](https://img.shields.io/badge/Framework-cURL-informational?style=flat&logo=curl&logoColor=white&color=0366d6)
  -   **How to Bypass CAPTCHA Using Playwright:** (_Article available by request_,  [Code Repository](https://github.com/nataliakzm/Resizing_Images_with_Flutter)) ![](https://img.shields.io/badge/Library-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=0366d6)
  -   **How to Bypass Cloudflare in Python** (_Article available by request_,  [Code Repository](https://github.com/nataliakzm/Resizing_Images_with_Flutter)) ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
