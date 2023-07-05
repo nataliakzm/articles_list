@@ -4,7 +4,7 @@
 
 <div>
 
--   **Part 1: Introduction to Large Language Models and ChatGPT:** ([Article](https://winder.ai/introduction-large-language-models-chatgpt/))
+-   **Part 1: Introduction to Large Language Models and ChatGPT:** ([Article](https://winder.ai/introduction-large-language-models-chatgpt/)) ![](https://img.shields.io/badge/Library-Langchain-informational?style=flat&logo=langchain&logoColor=white&color=0366d6) ![](https://img.shields.io/badge/Library-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=0366d6)   
 
 ## IMG.LY: Photo & Image Processing, Software Development
 
