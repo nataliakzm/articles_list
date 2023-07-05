@@ -1,5 +1,11 @@
 # Articles by Natalia Kuzminykh
 
+## Winder.AI: Industrial AI insight about ML, reinforcement learning, MLOps, and more...
+
+<div>
+
+-   **Part 1: Introduction to Large Language Models and ChatGPT:** ([Article](https://winder.ai/introduction-large-language-models-chatgpt/))
+
 ## IMG.LY: Photo & Image Processing, Software Development
 
 <div>
