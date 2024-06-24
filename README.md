@@ -14,6 +14,9 @@
 - **Calculating Token Counts for LLM Context Windows: A Practical Guide** ([Article](https://winder.ai/calculating-token-counts-llm-context-windows-practical-guide/)) ![](https://img.shields.io/badge/Library-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
 - **LLM Prompt Best Practices For Large Context Windows** ([Article](https://winder.ai/llm-prompt-best-practices-large-context-windows/)) ![](https://img.shields.io/badge/Library-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
 - **Big Data in LLMs with Retrieval-Augmented Generation (RAG)** ([Article](https://winder.ai/big-data-llms-retrieval-augmented-generation-rag/)) ![](https://img.shields.io/badge/Library-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6) 
+- **Exploring Small Language Models** ([Article](https://winder.ai/exploring-small-language-models/)) ![](https://img.shields.io/badge/Library-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6) 
+- **Build a Voice-Based Chatbot with OpenAI, Vocode, and ElevenLabs** ([Article](https://winder.ai/build-voice-based-chatbot-openai-vocode-elevenlabs/)) ![](https://img.shields.io/badge/Library-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)  ![](https://img.shields.io/badge/Library-Vocode-informational?style=flat&logo=Vocode&logoColor=white&color=0366d6)  ![](https://img.shields.io/badge/Library-OpenAI-informational?style=flat&logo=OpenAI&logoColor=white&color=0366d6) ![](https://img.shields.io/badge/Library-ElevenLabs-informational?style=flat&logo=ElevenLabs&logoColor=white&color=0366d6) 
+
 
 
 ## IMG.LY: Photo & Image Processing, Software Development
