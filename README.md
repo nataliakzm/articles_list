@@ -1,5 +1,16 @@
 # Articles by Natalia Kuzminykh
 
+A curated list of technical articles and tutorials authored by Natalia Kuzminykh, covering topics in AI, machine learning, MLOps, image processing, web scraping, and software development. This repository serves as a portfolio and quick reference for published works and code samples.
+
+---
+
+## Table of Contents
+- [Winder.AI: Industrial AI Insight](#winderai-industrial-ai-insight)
+- [IMG.LY: Photo & Image Processing](#imgly-photo--image-processing-software-development)
+- [Web Scraping Blog](#web-scraping-blog)
+
+---
+
 ## Winder.AI: Industrial AI insight about ML, reinforcement learning, MLOps, and more...
 
 <div>
